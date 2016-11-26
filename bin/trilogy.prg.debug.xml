@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="21" pc="268435458" symbol="refresh"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="22" pc="268435491" symbol="refresh"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="23" pc="268435502" symbol="refresh"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="26" pc="268435515" symbol="refresh"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="30" pc="268435538" symbol="initialize"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="32" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="33" pc="268435589" symbol="initialize"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="34" pc="268435600" symbol="initialize"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="40" pc="268435616" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="42" pc="268435653" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="43" pc="268435672" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="45" pc="268435691" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="46" pc="268435734" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="56" pc="268435783" symbol="getCirclePos"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="57" pc="268435799" symbol="getCirclePos"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="59" pc="268435847" symbol="getCirclePos"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="63" pc="268435934" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="65" pc="268435949" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="67" pc="268435949" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="68" pc="268435960" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="70" pc="268435990" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="72" pc="268436014" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="74" pc="268436033" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="77" pc="268436037" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="79" pc="268436052" symbol="getPointData"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="84" pc="268436128" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="85" pc="268436139" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="88" pc="268436149" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="89" pc="268436156" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="90" pc="268436167" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="93" pc="268436186" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="95" pc="268436201" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="97" pc="268436215" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="98" pc="268436247" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="100" pc="268436300" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="101" pc="268436316" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="103" pc="268436366" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="104" pc="268436373" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="105" pc="268436392" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="106" pc="268436428" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="108" pc="268436481" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="109" pc="268436517" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="111" pc="268436588" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="112" pc="268436624" symbol="drawBar"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="117" pc="268436698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="119" pc="268436718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="120" pc="268436748" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="121" pc="268436780" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="123" pc="268436834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="124" pc="268436870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="128" pc="268436933" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="132" pc="268437036" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="134" pc="268437132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="135" pc="268437149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="136" pc="268437168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="138" pc="268437201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="140" pc="268437261" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="143" pc="268437268" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="144" pc="268437304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="146" pc="268437367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="147" pc="268437386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="148" pc="268437403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="151" pc="268437416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="152" pc="268437423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="153" pc="268437442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="154" pc="268437459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="156" pc="268437489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="159" pc="268437499" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="162" pc="268437509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="163" pc="268437541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="165" pc="268437616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="166" pc="268437648" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="168" pc="268437723" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="170" pc="268437730" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="171" pc="268437762" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="173" pc="268437843" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="174" pc="268437875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="177" pc="268437956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="178" pc="268437992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="180" pc="268438076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="181" pc="268438108" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="183" pc="268438186" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="184" pc="268438222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="186" pc="268438303" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="187" pc="268438335" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="189" pc="268438410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="191" pc="268438433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="193" pc="268438443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="194" pc="268438457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="195" pc="268438483" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="198" pc="268438554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="199" pc="268438577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="200" pc="268438584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="201" pc="268438595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="203" pc="268438643" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="206" pc="268438688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyView.mc" lineNum="207" pc="268438714" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyApp.mc" lineNum="6" pc="268438782" symbol="initialize"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyApp.mc" lineNum="19" pc="268438809" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyApp.mc" lineNum="23" pc="268438849" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Alin\\garmin\\trilogy\\source\\trilogyApp.mc" lineNum="24" pc="268438876" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="36" pc="268438903" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268438917" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268439014" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268439029" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268439081" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="41" pc="268439127" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="39" method="true" symbol="refresh"/>
+<entry field="true" id="14" symbol="font_moire_small"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="37" symbol="moireFont"/>
+<entry field="true" id="19" symbol="lt_gray"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="13" symbol="font_moire"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="9" object="true" symbol="trilogyApp"/>
+<entry id="42" method="true" symbol="drawBar"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="35" symbol="accentColor"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="31" symbol="scrW"/>
+<entry field="true" id="32" symbol="scrH"/>
+<entry field="true" id="22" symbol="red"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="23" symbol="blue"/>
+<entry id="41" method="true" symbol="getPointData"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="21" symbol="dk_green"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="24" symbol="pink"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="36" symbol="nonAccentColor"/>
+<entry field="true" id="34" symbol="disabledColor"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="16" symbol="purple"/>
+<entry field="true" id="33" symbol="batBarH"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="30" symbol="dk_red"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="26" symbol="prompt"/>
+<entry field="true" id="28" symbol="dk_gray"/>
+<entry field="true" id="15" symbol="orange"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="20" symbol="yellow"/>
+<entry id="8" object="true" symbol="trilogyView"/>
+<entry field="true" id="27" symbol="accent"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="38" symbol="moireFontSmall"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="17" symbol="green"/>
+<entry field="true" id="29" symbol="dk_blue"/>
+<entry id="40" method="true" symbol="getCirclePos"/>
+<entry field="true" id="18" symbol="white"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435535" name="userAccentColor" stackId="1" startPc="268435458"/>
+<entry endPc="268435613" name="userAccentColor" stackId="1" startPc="268435538"/>
+<entry endPc="268435931" name="cx" stackId="3" startPc="268435783"/>
+<entry endPc="268435931" name="theta" stackId="2" startPc="268435783"/>
+<entry endPc="268435931" name="r" stackId="5" startPc="268435783"/>
+<entry endPc="268435931" name="cy" stackId="4" startPc="268435783"/>
+<entry endPc="268436125" name="ep" stackId="3" startPc="268435934"/>
+<entry endPc="268436125" name="sp" stackId="2" startPc="268435934"/>
+<entry endPc="268436125" name="beta" stackId="4" startPc="268435934"/>
+<entry endPc="268436695" name="color" stackId="8" startPc="268436128"/>
+<entry endPc="268436695" name="correct" stackId="6" startPc="268436128"/>
+<entry endPc="268436695" name="overlayH" stackId="9" startPc="268436128"/>
+<entry endPc="268436695" name="offset" stackId="10" startPc="268436128"/>
+<entry endPc="268436695" name="stP" stackId="7" startPc="268436128"/>
+<entry endPc="268438770" name="distance" stackId="13" startPc="268436698"/>
+<entry endPc="268438770" name="cal" stackId="11" startPc="268436698"/>
+<entry endPc="268438770" name="now" stackId="3" startPc="268436698"/>
+<entry endPc="268438770" name="calDistColor" stackId="12" startPc="268436698"/>
+<entry endPc="268438770" name="info" stackId="4" startPc="268436698"/>
+<entry endPc="268438770" name="dateStr" stackId="5" startPc="268436698"/>
+<entry endPc="268438770" name="clockTime" stackId="2" startPc="268436698"/>
+<entry endPc="268438770" name="hour" stackId="9" startPc="268436698"/>
+<entry endPc="268438770" name="min" stackId="7" startPc="268436698"/>
+<entry endPc="268438770" name="startY" stackId="6" startPc="268436698"/>
+<entry endPc="268438770" name="dl" stackId="10" startPc="268436698"/>
+<entry endPc="268438770" name="hcorrect" stackId="8" startPc="268436698"/>
+<entry endPc="268438770" name="stepsLabel" stackId="14" startPc="268436698"/>
+<entry endPc="268439144" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268438903"/>
+<entry endPc="268439144" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268438903"/>
+<entry endPc="268439144" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268438903"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="refresh" parent="trilogyView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="trilogyView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="trilogyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="trilogyView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getCirclePos" parent="trilogyView">
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getPointData" parent="trilogyView">
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBar" parent="trilogyView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="value"/>
+<param id="text"/>
+<param id="textLabel"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="trilogyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="trilogyView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="trilogyView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="trilogyView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="trilogyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="trilogyApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="trilogyApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="trilogyApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="trilogyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,46 @@
+<resources>
+    <strings>
+	    <string id="AppName">Progress</string>
+	    <string id="white">White</string>
+	    <string id="lt_gray">Light Gray</string>
+	    <string id="dk_gray">Dark Gray</string>
+	    <string id="red">Red</string>
+	    <string id="dk_red">Dark Red</string>
+	    <string id="orange">Orange</string>
+	    <string id="yellow">Yellow</string>
+	    <string id="green">Green</string>
+	    <string id="dk_green">Dark Green</string>
+	    <string id="blue">Blue</string>
+	    <string id="dk_blue">Dark Blue</string>
+	    <string id="purple">Purple</string>
+	    <string id="pink">Pink</string>
+	    
+		<string id="accent">Accent color</string>
+		<string id="prompt">Select your preferred accent color</string>    		
+	</strings>
+    
+    
+    <properties>        
+        <property id="accentColor" type="number">0</property>                  
+    </properties>
+    	
+   	<settings>
+		<setting propertyKey="accentColor" title="@Strings.accent" prompt="@Strings.prompt">
+	        <settingConfig type="list">
+	        	<listEntry value="0xFF5500">@Strings.orange</listEntry>
+	            <listEntry value="0xFFFFFF">@Strings.white</listEntry>
+	            <listEntry value="0xAAAAAA">@Strings.lt_gray</listEntry>
+	            <listEntry value="0x555555">@Strings.dk_gray</listEntry>
+	            <listEntry value="0xFF0000">@Strings.red</listEntry>
+	            <listEntry value="0xAA0000">@Strings.dk_red</listEntry>	            
+	            <listEntry value="0xFFAA00">@Strings.yellow</listEntry>
+	            <listEntry value="0x00FF00">@Strings.green</listEntry>
+	            <listEntry value="0x00AA00">@Strings.dk_green</listEntry>
+	            <listEntry value="0x00AAFF">@Strings.blue</listEntry>
+	            <listEntry value="0x0000FF">@Strings.dk_blue</listEntry>
+	            <listEntry value="0xAA00FF">@Strings.purple</listEntry>
+	            <listEntry value="0xFF00FF">@Strings.pink</listEntry>
+	        </settingConfig>            
+	    </setting>                
+    </settings>   
+</resources>

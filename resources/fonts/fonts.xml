@@ -1,0 +1,4 @@
+<resources>
+	<font id="font_moire" filename="./moire1.fnt" filter="0123456789:. "/>
+	<font id="font_moire_small" filename="./moire_small.fnt" filter="STEPSBAMOVKCINkcalminotfs1234567890 /%."/>	
+</resources>
